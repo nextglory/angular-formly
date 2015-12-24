@@ -2,6 +2,8 @@
 
 ## [angular-formly](http://docs.angular-formly.com)
 
+[![Join the chat at https://gitter.im/nextglory/angular-formly](https://badges.gitter.im/nextglory/angular-formly.svg)](https://gitter.im/nextglory/angular-formly?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Status:
 [![npm version](https://img.shields.io/npm/v/angular-formly.svg?style=flat-square)](https://www.npmjs.org/package/angular-formly)
 [![npm downloads](https://img.shields.io/npm/dm/angular-formly.svg?style=flat-square)](http://npm-stat.com/charts.html?package=angular-formly&from=2015-01-01)
